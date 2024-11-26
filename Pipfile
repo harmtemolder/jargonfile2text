@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 markdownify = "*"
-requests = "*"
 bs4 = "*"
+pymarkdownlnt = "*"
 
 [dev-packages]
 
