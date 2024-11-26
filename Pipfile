@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+markdownify = "*"
+requests = "*"
+bs4 = "*"
 
 [dev-packages]
 
