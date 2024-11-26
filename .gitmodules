@@ -1,0 +1,3 @@
+[submodule "jargonfile"]
+	path = jargonfile
+	url = https://github.com/agiacalone/jargonfile.git
